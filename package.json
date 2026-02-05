@@ -1,0 +1,8 @@
+{
+  "name": "alma-canada-website",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "serve": "npx serve ."
+  }
+}
